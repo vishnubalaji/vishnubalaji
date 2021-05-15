@@ -1,0 +1,36 @@
+html, body {
+  background: rgb(20,20,20);
+  height: 100%;
+  overflow: hidden;
+}
+.svg-wrapper {
+  position: relative;
+  top: 20%;
+  transform: translateX(-100%);
+	margin: 0 auto;
+  width: 500px;  
+}
+.shape {
+  stroke-dasharray: 0 580;
+  stroke-dashoffset: 580;
+  stroke-width: 2px;
+  fill: transparent;
+  stroke: #ffa;
+  transition: stroke-dashoffset 2s, stroke-dasharray 5s;
+}
+
+.shape-border {
+  stroke-dashoffset: 0;
+  stroke-dasharray: 480 100;
+}
+
+.text {
+  font-family: 'David Libre';
+  font-size: 25px;
+  letter-spacing: 8px;
+  color: #ffa;
+  top: -48px;
+  position: relative;
+  text-align: center;
+  font-variant: small-caps;
+}
