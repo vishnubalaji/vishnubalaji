@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a Computer Vision project
 - 💬 Ask me about AI and Cybersecurity, I will always be happy to help 😉
 - 📫 How to reach me: Twitter would be a really good place to get started.
-- 😄 Pronouns: Robots never have pronouns XD
+- 😄 Type of specimen: Robot(atleast thats what people call me 😉).
 - ⚡ Fun fact: People call me <b> PyTorcher√1729_36 <b> 😈🚀
 
 <!--
