@@ -1,5 +1,7 @@
 ## 👋 Yo! Bienvenue/Welcome to my GitHub profile ;)
 
+<img src="MyIdentity%20(1).png" width=50% height=50%>
+
 #### Get to know about me 😲🤔
 - 🌱 I’m currently learning the language of computer vision, _PyTorch_ and the language of love, _French_
 - 🔭 I’m currently working on an NLP project
